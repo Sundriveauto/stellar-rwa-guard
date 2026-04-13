@@ -14,3 +14,6 @@ As the Stellar network scales with institutional assets, issuers need a standard
 - [ ] Integration with SEP-30 (User Accounts)
 - [ ] Multi-sig admin approval for compliance officers
 - [ ] Automated daily audit report scripts (Python)# stellar-rwa-guard
+
+### Contributor Guidelines:
+- [ ] Attention Contributors: All Pull Requests must include unit tests and aim for 95% test coverage to be eligible for Wave Points.
